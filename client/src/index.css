@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* #000000 Black
+  #00A550 Pigment green 
+  #FFFFFF White
+  #0000FF Blue
+  #555555 Davy's gray
+  #C0C0C0 Silver 
+  #ED2839 Red (Pantone)
+  #008080 Teal
+  #7851A9 Royal Purple */
